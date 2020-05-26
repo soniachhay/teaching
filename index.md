@@ -7,12 +7,9 @@ title:  STA130
 
 Welcome! 👋 
 
-
 In [STA130: An Introduction to Statistical Reasoning and Data Science](https://fas.calendar.utoronto.ca/course/sta130h1), we will be discussing "the crucial role played by statistical reasoning in solving challenging problems from natural science, social science, technology, health care, and public policy, using a combination of logical thinking, mathematics, computer simulation, and oral and written discussion and analysis".
 
-
-If you need to contact me, my email is: _[sonia.chhay@mail.utoronto.ca](mailto:sonia.chhay@mail.utoronto.ca)_.
-
+If you need to contact me, my email is: _[sonia.chhay@mail.utoronto.ca](mailto:sonia.chhay@mail.utoronto.ca)_.  
 
 ### Tutorials
 - <a href="{{ 'w2_data_wrangling.pdf'   | relative_url }}">W2: Data Wrangling (Jan 18)</a> 
