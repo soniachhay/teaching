@@ -14,16 +14,16 @@ If you need to contact me, my email is: _[sonia.chhay@mail.utoronto.ca](mailto:s
 - <a href="{{ 'w2_data_wrangling.pdf'   | relative_url }}">W2: Data Wrangling (Jan 18)</a> 
 - <a href="{{ 'w3_boxplots.pdf'   | relative_url }}">W3: Boxplots, Data Wrangling (Jan 25)</a> 
 - <a href="{{ 'w4_statistical_inference.pdf'   | relative_url }}">W4: Statistical Inference (Feb 1)</a> 
-- <a href="{{ 'w5_hypothesis_testing.pdf'   | relative_url }}">W5: Hypothesis Testing and Errors (Feb 8)</a> <br>
+- <a href="{{ 'w5_hypothesis_testing.pdf'   | relative_url }}">W5: Hypothesis Testing and Errors (Feb 8)</a>
   - <a href="{{ 'w5_updated.pdf'   | relative_url }}">Complete Tutorial Slides</a> 
-- <a href="{{ 'w6_bootstrap_ci.pdf'   | relative_url }}">W6: Sampling, Bootstrap Samples, and Confidence Intervals (Feb 15)</a> <br>
-  - <a href="{{ 'w6_topics.pdf'   | relative_url }}">Presentation Topics</a> <br>
-  - <a href="{{ 'w6_rcode.pdf'   | relative_url }}">Relevant RCode for W6</a> <br>
-  - <a href="{{ 'w6_updated.pdf'   | relative_url }}">Complete Tutorial Slides</a> <br>
-- <a href="{{ 'w8_classification_trees.pdf'   | relative_url }}">W8: Classification Trees (Mar 8, Complete Tutorial Slides)</a> <br>
-- <a href="{{ 'w9_slr.pdf'   | relative_url }}">W9: Simple Linear Regression (Mar 15, Complete Tutorial Slides)</a> <br>
-- <a href="{{ 'w10_mlr.pdf'   | relative_url }}">W10: Multiple Linear Regression (Mar 22, Complete Tutorial Slides)</a> <br>
-- <a href="{{ 'w11_confounding_ethics.pdf'   | relative_url }}">W11: Confounding and Ethics (Mar 29, Complete Tutorial Slides)</a><br/>
+- <a href="{{ 'w6_bootstrap_ci.pdf'   | relative_url }}">W6: Sampling, Bootstrap Samples, and Confidence Intervals (Feb 15)</a>
+  - <a href="{{ 'w6_topics.pdf'   | relative_url }}">Presentation Topics</a>
+  - <a href="{{ 'w6_rcode.pdf'   | relative_url }}">Relevant RCode for W6</a>
+  - <a href="{{ 'w6_updated.pdf'   | relative_url }}">Complete Tutorial Slides</a>
+- <a href="{{ 'w8_classification_trees.pdf'   | relative_url }}">W8: Classification Trees (Mar 8, Complete Tutorial Slides)</a>
+- <a href="{{ 'w9_slr.pdf'   | relative_url }}">W9: Simple Linear Regression (Mar 15, Complete Tutorial Slides)</a>
+- <a href="{{ 'w10_mlr.pdf'   | relative_url }}">W10: Multiple Linear Regression (Mar 22, Complete Tutorial Slides)</a>
+- <a href="{{ 'w11_confounding_ethics.pdf'   | relative_url }}">W11: Confounding and Ethics (Mar 29, Complete Tutorial Slides)</a><br/><br/>
 
 ### Resources
 - <a href="{{ 'mentorship.pdf'   | relative_url }}">STA130 Mentorship Program (Starts: Jan 25, 2019)</a> 
