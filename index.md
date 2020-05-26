@@ -23,7 +23,8 @@ If you need to contact me, my email is: _[sonia.chhay@mail.utoronto.ca](mailto:s
 - <a href="{{ 'w8_classification_trees.pdf'   | relative_url }}">W8: Classification Trees (Mar 8, Complete Tutorial Slides)</a>
 - <a href="{{ 'w9_slr.pdf'   | relative_url }}">W9: Simple Linear Regression (Mar 15, Complete Tutorial Slides)</a>
 - <a href="{{ 'w10_mlr.pdf'   | relative_url }}">W10: Multiple Linear Regression (Mar 22, Complete Tutorial Slides)</a>
-- <a href="{{ 'w11_confounding_ethics.pdf'   | relative_url }}">W11: Confounding and Ethics (Mar 29, Complete Tutorial Slides)</a><br/><br/>
+- <a href="{{ 'w11_confounding_ethics.pdf'   | relative_url }}">W11: Confounding and Ethics (Mar 29, Complete Tutorial Slides)</a>
+<br/><br/>
 
 ### Resources
 - <a href="{{ 'mentorship.pdf'   | relative_url }}">STA130 Mentorship Program (Starts: Jan 25, 2019)</a> 
