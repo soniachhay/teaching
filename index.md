@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## C:\UofT\STA130>_
 
-You can use the [editor on GitHub](https://github.com/soniachhay/teaching/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! 👋 
+<br></br>
+In [STA130: An Introduction to Statistical Reasoning and Data Science](https://fas.calendar.utoronto.ca/course/sta130h1), we will be discussing "the crucial role played by statistical reasoning in solving challenging problems from natural science, social science, technology, health care, and public policy, using a combination of logical thinking, mathematics, computer simulation, and oral and written discussion and analysis".
+<br></br>
+If you need to contact me, my email is: _sonia.chhay@mail.utoronto.ca_.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soniachhay/teaching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Resources
+- <a href="{{ 'mentorship.pdf'   | relative_url }}">STA130 Mentorship Program (Start: Jan 25)</a> 
+- <a href="{{ 'rmarkdown.pdf'   | relative_url }}">R Markdown Aid Sheet</a> 
+- <a href="{{ 'basic_r.pdf'   | relative_url }}">Basic R Commands</a> 
+- <a href="{{ 'data_wrangling.pdf'   | relative_url }}">Data Wrangling (with dpylr)</a> 
+- <a href="{{ 'ggplot2_visualization.pdf'   | relative_url }}">Data Visualizations (with ggplot2)</a> 
+- <a href="{{ 'data_import.pdf'   | relative_url }}">Data Importing</a> 
